@@ -1,18 +1,21 @@
 <header>
-  <h1 align="center">Привет! Меня зовут Дмитрий!
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-  </h1>
+  <h1 align="center">Привет! Меня зовут Дмитрий!</h1>
   <h2 align="center">Я начинающий Frontend-разработчик</h2>
-  <div id="header" align="center">
-    <img
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN4OTdzMmtjZnU4MXEzY2t5YzR5bTB6eXhrY2Uwdzk0M3h5Z241diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giKklFontfveZrNXjz/giphy.gif" width="400"
+  <div 
+    id="header" 
+    align="center">
+    <img 
+      alt="Cthulhu IT"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN4OTdzMmtjZnU4MXEzY2t5YzR5bTB6eXhrY2Uwdzk0M3h5Z241diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giKklFontfveZrNXjz/giphy.gif" 
+      width="400"
       >
   </div>
 </header>
 
 <h2 align="center">Обо мне</h2>
 <p align="center">Я успешно прошел курс "Веб-разработчик" на платформе
-  <img 
+  <img
+    alt="Yandex"
     width="20" 
     height="20" 
     src="https://cdn.icon-icons.com/icons2/699/PNG/512/yandex_cyr_icon-icons.com_61627.png"> Практикум. Ежедневно прокачиваю свой skill.
@@ -23,24 +26,28 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN4OTdzMmtjZnU4MXEzY2t5Yz
 <div align="center">
   <a href="">
     <img 
+      alt=""
       width="40" 
       height="40" 
       src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"
       ></a>
   <a href="https://vk.com/kharchenkode">
     <img 
+      alt=""
       width="40" 
       height="40" 
       src="https://cdn-icons-png.flaticon.com/128/2504/2504953.png"
       ></a>
-  <a href="">
+  <a href="https://t.me/KharchenkoDE">
     <img 
+      alt=""
       width="40" 
       height="40" 
       src="https://cdn-icons-png.flaticon.com/128/2504/2504941.png"
       ></a>
-  <a href="">
+  <a href="https://mail.yandex.ru/?uid=115851812#inbox">
     <img
+      alt=""
       width="40" 
       height="40" 
       src="https://cdn-icons-png.flaticon.com/128/5968/5968981.png"
