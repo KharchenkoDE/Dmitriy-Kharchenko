@@ -24,30 +24,30 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN4OTdzMmtjZnU4MXEzY2t5Yz
 
 <h2 align="center">Мои контакты</h2>
 <div align="center">
-  <a href="">
+  <a href="https://instagram.com/kharchenkode?igshid=NnNqczlxeXJoczY=">
     <img 
-      alt=""
+      alt="instagram"
       width="40" 
       height="40" 
       src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"
       ></a>
   <a href="https://vk.com/kharchenkode">
     <img 
-      alt=""
+      alt="VK"
       width="40" 
       height="40" 
       src="https://cdn-icons-png.flaticon.com/128/2504/2504953.png"
       ></a>
   <a href="https://t.me/KharchenkoDE">
     <img 
-      alt=""
+      alt="telegram"
       width="40" 
       height="40" 
       src="https://cdn-icons-png.flaticon.com/128/2504/2504941.png"
       ></a>
   <a href="https://mail.yandex.ru/?uid=115851812#inbox">
     <img
-      alt=""
+      alt="mail"
       width="40" 
       height="40" 
       src="https://cdn-icons-png.flaticon.com/128/5968/5968981.png"
