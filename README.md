@@ -173,23 +173,33 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN4OTdzMmtjZnU4MXEzY2t5Yz
     <img 
     src="https://github.com/KharchenkoDE/KharchenkoDE/blob/main/src/images/repo/HowToLearn.jpg?raw=true" 
     alt="HowToLearn" 
-    width="250" 
+    width="220" 
     height="200"
     />
   </a>
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdmcmsyc3Q0azJ4aXg3Yjd2cmRqNzh4MG96cW9lMHowdmRhcThkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fFyTnaV3NCmVJFJPaL/giphy.gif" 
+    width="150"
+    height="200"
+      >
   <a href="https://github.com/KharchenkoDE/russian-travel">
     <img 
     src="https://github.com/KharchenkoDE/KharchenkoDE/blob/main/src/images/repo/RussianTravel.jpg?raw=true" 
     alt="RussianTravel" 
-    width="250" 
+    width="220" 
     height="200"
     />
   </a>
+    <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdmcmsyc3Q0azJ4aXg3Yjd2cmRqNzh4MG96cW9lMHowdmRhcThkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fFyTnaV3NCmVJFJPaL/giphy.gif" 
+    width="150"
+    height="200"
+      >
   <a href="https://github.com/KharchenkoDE/mesto">
     <img 
     src="https://github.com/KharchenkoDE/KharchenkoDE/blob/main/src/images/repo/Mesto.jpg?raw=true" 
     alt="Mesto" 
-    width="250" 
+    width="220" 
     height="200"
     />
   </a>
