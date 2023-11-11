@@ -1,10 +1,3 @@
-<head>
-    <style>
-    a {
-      text-decoration: none;
-    }
-  </style>
-</head>
 <header>
   <h1 align="center">Привет! Меня зовут Дмитрий!</h1>
   <h2 align="center">Я начинающий Frontend-разработчик</h2>
@@ -182,5 +175,3 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN4OTdzMmtjZnU4MXEzY2t5Yz
 ![Langs](https://github-readme-stats.vercel.app/api?username=KharchenkoDE&show_icons=true&theme=darcula#gh-dark-mode-only)
 
 </div>
-
-
