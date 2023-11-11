@@ -173,7 +173,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN4OTdzMmtjZnU4MXEzY2t5Yz
     <img 
     src="https://github.com/KharchenkoDE/KharchenkoDE/blob/main/src/images/repo/HowToLearn.jpg?raw=true" 
     alt="HowToLearn" 
-    width="400" 
+    width="250" 
     height="200"
     />
   </a>
