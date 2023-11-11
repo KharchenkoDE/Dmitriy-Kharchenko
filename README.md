@@ -1,3 +1,10 @@
+<head>
+    <style>
+    a {
+      text-decoration: none;
+    }
+  </style>
+</head>
 <header>
   <h1 align="center">Привет! Меня зовут Дмитрий!</h1>
   <h2 align="center">Я начинающий Frontend-разработчик</h2>
@@ -11,16 +18,15 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN4OTdzMmtjZnU4MXEzY2t5Yz
       >
   </div>
 </header>
-
 <h2 align="center">Обо мне</h2>
 <p align="center">Я успешно прошел курс "Веб-разработчик" на платформе
-  <a href="https://practicum.yandex.ru">
+  <a href="https://practicum.yandex.ru"=>
     <img 
       alt="Yandex" 
       width="20" 
       height="20" 
-      src="https://cdn.icon-icons.com/icons2/699/PNG/512/yandex_cyr_icon-icons.com_61627.png"> Практикум.
-  </a>Ежедневно прокачиваю свой skill. Хочу применять свои навыки в настоящих проектах и конечно же работать в крутой команде.
+      src="https://cdn.icon-icons.com/icons2/699/PNG/512/yandex_cyr_icon-icons.com_61627.png">
+  </a>Практикум. Ежедневно прокачиваю свой skill. Хочу применять свои навыки в настоящих проектах и конечно же работать в крутой команде.
 </p>
 
 <h2 align="center">Мои контакты</h2>
