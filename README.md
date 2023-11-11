@@ -171,35 +171,27 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN4OTdzMmtjZnU4MXEzY2t5Yz
 <div align="center">
   <a href="https://github.com/KharchenkoDE/how-to-learn">
     <img 
-    src="https://cdn-icons-png.flaticon.com/128/9770/9770783.png" 
-    alt="1" 
-    width="30" 
-    height="30"
-    />&nbspНаучиться учиться
-  </a>&nbsp
+    src="https://github.com/KharchenkoDE/KharchenkoDE/blob/main/src/images/repo/HowToLearn.jpg?raw=true" 
+    alt="HowToLearn" 
+    width="400" 
+    height="200"
+    />
+  </a>
   <a href="https://github.com/KharchenkoDE/russian-travel">
     <img 
-    src="https://cdn-icons-png.flaticon.com/128/9770/9770819.png" 
-    alt="1" 
-    width="30" 
-    height="30"
-    />&nbspRussion travel
-  </a>&nbsp
+    src="https://github.com/KharchenkoDE/KharchenkoDE/blob/main/src/images/repo/RussianTravel.jpg?raw=true" 
+    alt="RussianTravel" 
+    width="250" 
+    height="200"
+    />
+  </a>
   <a href="https://github.com/KharchenkoDE/mesto">
     <img 
-    src="https://cdn-icons-png.flaticon.com/128/9770/9770853.png" 
-    alt="1" 
-    width="30" 
-    height="30"
-    />&nbspMesto
-  </a>&nbsp
-  <a href="https://github.com/KharchenkoDE/movies-explorer-frontend">
-    <img 
-    src="https://cdn-icons-png.flaticon.com/128/9770/9770887.png" 
-    alt="1" 
-    width="30" 
-    height="30"
-    />&nbspMovies explorer>
+    src="https://github.com/KharchenkoDE/KharchenkoDE/blob/main/src/images/repo/Mesto.jpg?raw=true" 
+    alt="Mesto" 
+    width="250" 
+    height="200"
+    />
   </a>
 </div>
 
